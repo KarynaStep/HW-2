@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import styles from "./StopWatchTimeout.module.css";
+import styles from "./StopTimeout.module.css";
 
 //переписати компонент на setTimeout замість setInterval
 
-class StopWatchTimeout extends Component {
+class StopTimeout extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -78,4 +78,4 @@ class StopWatchTimeout extends Component {
   }
 }
 
-export default StopWatchTimeout;
+export default StopTimeout;

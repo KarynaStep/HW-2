@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import StopWatchTimeout from './components/StopWatchTimeout';
+import StopTimeout from './components/StopTimeout';
 
 function App() {
   return (
     <>
-      <StopWatchTimeout />
+      <StopTimeout />
     </>
   );
 }
