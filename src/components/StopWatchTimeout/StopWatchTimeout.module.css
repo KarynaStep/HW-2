@@ -1,0 +1,19 @@
+.container{
+  width: 50vw;
+  min-width: 400px;
+  padding: 20px;
+  margin: 20px auto;
+  background-color: rgb(173, 215, 147);
+}
+.container h2{
+  color:white;
+  font-size: 3rem;
+}
+.container .btn{
+  padding: 1rem;
+  margin: 1rem;
+}
+.btn {
+ border: none;
+ border-radius: 10px;
+}
